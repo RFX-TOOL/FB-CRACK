@@ -1,1 +1,1 @@
-import crack
+print('tool off')
